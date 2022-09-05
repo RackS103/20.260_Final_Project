@@ -3,7 +3,7 @@ Rachit Mukkamala - May 8, 2022
 
 ## Project Summary
 
-In this project, I report an analysis of SCC proteomics data from the paper *"Proteogenomic Landscape of Squamous Cell Lung Cancer"* by Stewart et al. (2019) using both unsupervised and supervised machine learning algorithms. My unsupervised analysis showed that SCC tumors can be separated into two distinct
+In this project, I report an analysis of SCC proteomics data from the paper *["Proteogenomic Landscape of Squamous Cell Lung Cancer"](https://doi.org/10.1038/s41467-019-11452-x)* by Stewart et al. (2019) using both unsupervised and supervised machine learning algorithms. My unsupervised analysis showed that SCC tumors can be separated into two distinct
 subtypes, one of which is characterized by high expression of mRNA processing proteins/low expression
 of secretory proteins, and the other which has the exact opposite signature.
 
